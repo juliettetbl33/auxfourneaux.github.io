@@ -93,3 +93,7 @@ iframe{
 .map{
 	text-align: center;
 }
+.tarte2{
+	display: flex;
+	justify-content: space-between;
+}
